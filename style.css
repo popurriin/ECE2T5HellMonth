@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Playfair+Display:ital,wght@0,900;1,900&display=swap');
+
+h1 {
+  c
+}
+
+h2 {
+  font-family: 'Playfair Display', serif;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.list {
+  font-family: 'Open Sans', sans-serif;
+}
