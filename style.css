@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Playfair+Display:ital,wght@0,900;1,900&display=swap');
 
 h1 {
-  c
+  font-family: 'Playfair Display', serif;
 }
 
 h2 {
@@ -9,6 +9,10 @@ h2 {
 }
 
 p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+label {
   font-family: 'Open Sans', sans-serif;
 }
 
